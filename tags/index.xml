@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on My New Hugo Site</title>
-        <link>https://example.org/tags/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/</link>
         <description>Recent content in Tags on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adammorrow98.github.io/personalwebsitehugo/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>https://example.org/tags/css/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/css/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://example.org/tags/html/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/html/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://example.org/tags/markdown/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/markdown/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://example.org/tags/themes/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/themes/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://example.org/tags/privacy/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/privacy/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://example.org/tags/shortcodes/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/shortcodes/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://example.org/tags/tag-with-whitespaces/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/tag-with-whitespaces/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://example.org/tags/text/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/text/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://example.org/tags/emoji/</link>
+        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/tags/emoji/</guid>
+        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/emoji/</guid>
         <description></description>
         </item>
         
