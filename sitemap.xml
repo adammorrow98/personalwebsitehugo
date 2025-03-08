@@ -2,83 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/p/hello-world/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/page/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/css/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/html/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/markdown/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/p/markdown-syntax-guide/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/post/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/categories/syntax/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/themes/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/categories/themes/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/p/image-gallery/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/p/shortcodes/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/p/math-typesetting/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/archives/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/tags/example-tag/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/page/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://demo.stack.jimmycai.com/links/</loc>
   </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/page/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/page/links/</loc>
-  </url><url>
-    <loc>https://adammorrow98.github.io/personalwebsitehugo/page/search/</loc>
+    <loc>https://demo.stack.jimmycai.com/search/</loc>
   </url>
 </urlset>

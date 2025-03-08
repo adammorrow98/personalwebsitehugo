@@ -1,81 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on My New Hugo Site</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/</link>
-        <description>Recent content in Tags on My New Hugo Site</description>
+        <title>Tags on Hugo Theme Stack Starter</title>
+        <link>https://demo.stack.jimmycai.com/tags/</link>
+        <description>Recent content in Tags on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adammorrow98.github.io/personalwebsitehugo/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://demo.stack.jimmycai.com/tags/css/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/css/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://demo.stack.jimmycai.com/tags/html/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/html/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://demo.stack.jimmycai.com/tags/markdown/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/markdown/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://demo.stack.jimmycai.com/tags/themes/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/themes/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/themes/</guid>
         <description></description>
         </item>
         <item>
-        <title>Privacy</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Example Tag</title>
+        <link>https://demo.stack.jimmycai.com/tags/example-tag/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Shortcodes</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/tags/emoji/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/example-tag/</guid>
         <description></description>
         </item>
         
