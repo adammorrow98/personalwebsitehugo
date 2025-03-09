@@ -8,17 +8,25 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://mastodon.social/@planningtomorrow"
 
 [social.params]
 icon = "mastodon"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "pixelfed"
+name = "Pixelfed"
+url = "https://pixelfed.social/planningtomorrow"
 
 [social.params]
 icon = "pixelfed"
+
+[[social]]
+identifier = "signal"
+name = "Signal"
+url = "https://signal.me/#eu/_T7e3Z4NYHMf1gB1-s231fsYurpYPO1y1oad14SmU2VigYUn-PdK9JgPF1E_V20N"
+
+[social.params]
+icon = "signal"

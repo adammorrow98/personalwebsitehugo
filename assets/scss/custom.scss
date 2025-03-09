@@ -1,3 +1,10 @@
-/*
-    You can add your own custom styles here.
-*/
+.custom-icon svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+/* Ensure it changes color in dark mode */
+html[data-theme="dark"] .custom-icon svg {
+  fill: white;
+}
