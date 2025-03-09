@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Adam Morrow&#39;s Blog</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/</link>
+        <link>https://adam-morrow.com/categories/</link>
         <description>Recent content in Categories on Adam Morrow&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 09 Mar 2025 22:13:38 +1000</lastBuildDate><atom:link href="https://adammorrow98.github.io/personalwebsitehugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Mar 2025 22:13:38 +1000</lastBuildDate><atom:link href="https://adam-morrow.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Street Design</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/street-design/</link>
+        <link>https://adam-morrow.com/categories/street-design/</link>
         <pubDate>Sun, 09 Mar 2025 22:13:38 +1000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/categories/street-design/</guid>
+        <guid>https://adam-morrow.com/categories/street-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Traffic Signals</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/traffic-signals/</link>
+        <link>https://adam-morrow.com/categories/traffic-signals/</link>
         <pubDate>Sun, 09 Mar 2025 22:13:38 +1000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/categories/traffic-signals/</guid>
+        <guid>https://adam-morrow.com/categories/traffic-signals/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/syntax/</link>
+        <link>https://adam-morrow.com/categories/syntax/</link>
         <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/categories/syntax/</guid>
+        <guid>https://adam-morrow.com/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/themes/</link>
+        <link>https://adam-morrow.com/categories/themes/</link>
         <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/categories/themes/</guid>
+        <guid>https://adam-morrow.com/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Example Category</title>
-        <link>https://adammorrow98.github.io/personalwebsitehugo/categories/example-category/</link>
+        <link>https://adam-morrow.com/categories/example-category/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://adammorrow98.github.io/personalwebsitehugo/categories/example-category/</guid>
+        <guid>https://adam-morrow.com/categories/example-category/</guid>
         <description></description>
         </item>
         
