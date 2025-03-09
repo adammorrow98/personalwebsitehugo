@@ -12,7 +12,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-<i class="fa-solid fa-user"></i>
+<i class="fa-solid fa-user"></i><i class="pixelfed"></i>
 
 For more information about this theme, check the documentation: https://stack.jimmycai.com/
 
