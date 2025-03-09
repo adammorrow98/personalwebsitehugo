@@ -1,4 +1,4 @@
-baseURL = 'https://adammorrow98.github.io/personalwebsitehugo/'
+baseURL = 'https://adam-morrow.com/'
 languageCode = 'en-us'
 title = "Adam Morrow's Blog"
 theme = 'Stack'
