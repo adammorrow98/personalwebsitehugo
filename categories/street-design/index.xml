@@ -93,7 +93,7 @@
           &lt;th&gt;&lt;div style=&#34;width:75px&#34;&gt;Phase No&lt;/div&gt;&lt;/th&gt;
           &lt;th&gt;&lt;div style=&#34;width:60px&#34;&gt;Time (s)&lt;/div&gt;&lt;/th&gt;
           &lt;th&gt;&lt;div style=&#34;width:80px&#34;&gt;Who&amp;rsquo;s Green?&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;Diagram (Green movement permitted without conflict, Red movement permitted with conflict)&lt;/th&gt;
+          &lt;th&gt;Diagram (Green = no conflict with peds, Red = conflict)&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
