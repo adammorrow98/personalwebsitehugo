@@ -40,10 +40,16 @@ To simplify the descriptions for the phases I'll be using the following shorthan
 - Turning Left (L)
 - Turning Right (R)
 
-This will be displayed in square brackets in the above order separated by commas. For example, to describe a vehicle on Abbortsford Road originating at the top of the diagram Turning Right into Gregory Terrace, this would be described as [AR, T, R].
 
-The light cycles for the motor vehicle traffic lights are described below:
+This will be displayed in square brackets in the above order separated by commas. If there is a conflict with Pedestrians, an exclamation mark will be used after the array. If it's a sliplane the array will start with a dolalr sign ($). For example, to describe a vehicle on Abbortsford Road originating at the top of the diagram Turning Right into Gregory Terrace with no conflict with pedestrians, this would be described as [AR, T, R].
 
-| <div style="width:75px">Phase No</div>| <div style="width:60px">Time (s)</div> | <div style="width:75px">Who can Go?</div> | Diagram
+The observed light cycles for the motor vehicle traffic lights are described below:
+
+| <div style="width:75px">Phase No</div>| <div style="width:60px">Time (s)</div> | <div style="width:80px">Who's Green?</div> | Diagram
 |----|----|----|---|
-| Phase 1| 15 | [AR, T, R]<br>[AR, T, S] | ![Phase 1](Brunswick_Street_Phase_1.png)
+| Phase 1| 15s | [AR, T, S]<br>[AR, T, R]<br>[AR, T, L]!<br>$[BS, B, L]!<br>$[GT, L, L]! | ![Phase 1](Brunswick_Street_Phase_1.png) |
+| Phase 2| 45s | [AR, T, S]<br>[AR, T, L]!<br>[BS, B, S] <br>$[BS, B, L]!<br>$[GT, L, L]! | ![Phase 2](Brunswick_Street_Phase_2.png) |
+| Phase 3| 15s | [GT, L, S]<br>[GT, R, S]<br>[GT, R , L]! <br>$[BS, B, L]!<br>$[GT, L, L]!| ![Phase 3](Brunswick_Street_Phase_3.png) |
+
+**Note**: For completeness, if no vehicle is detected wanted to turn right from Abbortford Road into Gregory Terrace, Phase 1 does not occur and its time is absorbed into Phase 2 (totalling 60 seconds instead of 45).
+
