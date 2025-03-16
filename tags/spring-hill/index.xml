@@ -56,22 +56,22 @@
 &lt;li&gt;Turning Left (L)&lt;/li&gt;
 &lt;li&gt;Turning Right (R)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This will be displayed in square brackets in the above order separated by commas. For example, to describe a vehicle on Abbortsford Road originating at the top of the diagram Turning Right into Gregory Terrace, this would be described as [AR, T, R].&lt;/p&gt;
-&lt;p&gt;The light cycles for the motor vehicle traffic lights are described below:&lt;/p&gt;
+&lt;p&gt;This will be displayed in square brackets in the above order separated by commas. If there is a conflict with Pedestrians, an exclamation mark will be used after the array. If it&amp;rsquo;s a sliplane the array will start with a dolalr sign ($). For example, to describe a vehicle on Abbortsford Road originating at the top of the diagram Turning Right into Gregory Terrace with no conflict with pedestrians, this would be described as [AR, T, R].&lt;/p&gt;
+&lt;p&gt;The observed light cycles for the motor vehicle traffic lights are described below:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;div style=&#34;width:75px&#34;&gt;Phase No&lt;/div&gt;&lt;/th&gt;
           &lt;th&gt;&lt;div style=&#34;width:60px&#34;&gt;Time (s)&lt;/div&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;div style=&#34;width:75px&#34;&gt;Who can Go?&lt;/div&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;div style=&#34;width:80px&#34;&gt;Who&amp;rsquo;s Green?&lt;/div&gt;&lt;/th&gt;
           &lt;th&gt;Diagram&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;Phase 1&lt;/td&gt;
-          &lt;td&gt;15&lt;/td&gt;
-          &lt;td&gt;[AR, T, R]&lt;br&gt;[AR, T, S]&lt;/td&gt;
+          &lt;td&gt;15s&lt;/td&gt;
+          &lt;td&gt;[AR, T, S]&lt;br&gt;[AR, T, R]&lt;br&gt;[AR, T, L]!&lt;br&gt;$[BS, B, L]!&lt;br&gt;$[GT, L, L]!&lt;/td&gt;
           &lt;td&gt;&lt;img src=&#34;https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_1.png&#34;
 	width=&#34;794&#34;
 	height=&#34;1123&#34;
@@ -87,8 +87,47 @@
 	
 &gt;&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Phase 2&lt;/td&gt;
+          &lt;td&gt;45s&lt;/td&gt;
+          &lt;td&gt;[AR, T, S]&lt;br&gt;[AR, T, L]!&lt;br&gt;[BS, B, S] &lt;br&gt;$[BS, B, L]!&lt;br&gt;$[GT, L, L]!&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_2.png&#34;
+	width=&#34;794&#34;
+	height=&#34;1123&#34;
+	srcset=&#34;https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_2_hu_9d945e2e39150aab.png 480w, https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_2_hu_e45d322b534709f6.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Phase 2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
+	
+&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Phase 3&lt;/td&gt;
+          &lt;td&gt;15s&lt;/td&gt;
+          &lt;td&gt;[GT, L, S]&lt;br&gt;[GT, R, S]&lt;br&gt;[GT, R , L]! &lt;br&gt;$[BS, B, L]!&lt;br&gt;$[GT, L, L]!&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_3.png&#34;
+	width=&#34;794&#34;
+	height=&#34;1123&#34;
+	srcset=&#34;https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_3_hu_11bfb3cb56d8fe39.png 480w, https://adam-morrow.com/p/gregory-terrace-traffic-lights/Brunswick_Street_Phase_3_hu_95db1a39df0ae7ec.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Phase 3&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
+	
+&gt;&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: For completeness, if no vehicle is detected wanted to turn right from Abbortford Road into Gregory Terrace, Phase 1 does not occur and its time is absorbed into Phase 2 (totalling 60 seconds instead of 45).&lt;/p&gt;
 </description>
         </item>
         
