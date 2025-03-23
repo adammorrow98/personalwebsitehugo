@@ -23,6 +23,10 @@ Isn't this street super wide?  it's a one-way, one-lane, 15m street!
 # Problems
 
 ## Visibility for cars coming from Water Street
+- You can only partially see the cars coming down
+- there is space to move the stop line up
+
+
 
 ## Insane crossing distances for pedestrians
 - compare with Brewers St (down the street)
@@ -42,6 +46,8 @@ Isn't this street super wide?  it's a one-way, one-lane, 15m street!
 ## Benches
 
 ## Trees / Shade
+
+# Short Term Cheap Solution
 
 
 
