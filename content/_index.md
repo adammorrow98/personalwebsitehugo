@@ -6,3 +6,4 @@ menu:
         params:
             icon: home
 ---
+<a rel="me" href="https://mastodon.social/@planningtomorrow">Mastodon</a>
